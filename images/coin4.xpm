@@ -1,0 +1,38 @@
+/* XPM */
+static char *_6x25_204[] = {
+/* columns rows colors chars-per-pixel */
+"16 25 7 1 ",
+"  c black",
+". c #FF37911D",
+"X c #CB983E",
+"o c #F2D43B",
+"O c #F7F739",
+"+ c #F7F7B4",
+"@ c #E6EDF6",
+/* pixels */
+".....      .....",
+"...   @@@@   ...",
+"..  @@+++++X  ..",
+".  @++++++++X  .",
+". @+++++   ++X .",
+"  @++++ @OO +X  ",
+" @+++++  Oo ++X ",
+" o+++++  oX ++X ",
+" O++    oXX ++X ",
+" O+ @OOO   O +X ",
+" O @OOoooO@OX X ",
+" O OOoooX OoX X ",
+" O oooXXX  oX X ",
+" O+ XXX  OoXX X ",
+" O++   XXoXX +X ",
+" O+++++  XX ++X ",
+" O+++++++ o ++X ",
+" O++++++ @O  +X ",
+" O++++++ OOoX++ ",
+"  +++++ OooXXX  ",
+". +++++ ooXX+X .",
+".  X++++ XX+X  .",
+"..  XX++++XX  ..",
+"...   XXXX   ...",
+".....      ....."
+};
